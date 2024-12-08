@@ -1,0 +1,13 @@
+{
+  "python.analysis.extraPaths": [
+    "./src/Interior",
+    "./src/Interfaz_de_usuario",
+    "./src/LogicaNegocio",
+    "./src/Logica_de_negocio",
+    "./src/Interfaz_de_usuario/pantalla_principal",
+    "./src/Interfaz_de_usuario/Logica_de_negocio"
+  ],
+  "python.testing.pytestArgs": ["__pycache__"],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
+}
